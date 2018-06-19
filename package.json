@@ -1,0 +1,13 @@
+{
+  "name": "project-gerbil",
+  "description": "Time tracker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcgarvin/project-gerbil.git"
+  },
+  "author": "tcgarvin@gmail.com",
+  "bugs": {
+    "url": "https://github.com/tcgarvin/project-gerbil/issues"
+  },
+  "homepage": "https://github.com/tcgarvin/project-gerbil#readme"
+}
