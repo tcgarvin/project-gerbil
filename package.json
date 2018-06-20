@@ -9,8 +9,5 @@
   "bugs": {
     "url": "https://github.com/tcgarvin/project-gerbil/issues"
   },
-  "homepage": "https://github.com/tcgarvin/project-gerbil#readme",
-  "dependencies": {
-    "@google-cloud/datastore": "^1.4.0"
-  }
+  "homepage": "https://github.com/tcgarvin/project-gerbil#readme"
 }
